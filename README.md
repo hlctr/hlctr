@@ -21,7 +21,7 @@ and I'm focusing my research on Data Science.
 
 - 🌱 I’m currently learning: **Power BI | Data Science | Machine Learning | Predict patters with AI**
 
-- 📫 How to reach me: **alcantara.he@gmail.com**
+- 📫 How to reach me: **alcantara.he@outlook.com**
 
 - ⚡ Fun fact: **I like read books and series about Sci-Fi, I like to understand how things work, do it yourself and I love science in general📚.**
 
