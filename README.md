@@ -7,11 +7,11 @@
     <img align="center" alt="GIF" src="programmer.gif" width="500" height="320" />
 </div>
 
-<details><summary> <h3> About me 🕵️‍♂️ ? </h3></summary>
+<details><summary> <h3> About me 🤖? </h3></summary>
 
   
-**`I'm new here... I am Herlon Alcântara, I live in Bahia-Brazil and I have a Diploma in Systems Analysis and Development.
-I have a postgraduate degree in Architecture and IT Infrastructure Management and experience in project management.
+**`I'm new here... I am Herlon Alcântara, I live in Bahia-Brazil and I have a Diploma in Systems Analysis and Development
+and postgraduate degree in Architecture and IT Infrastructure Management and experience in project management.
 I often use backend language to automate and improve processes. About 3 months ago I started my Master's degree in Computer Science
 and I'm focusing my research on Data Science.
 `**
@@ -23,7 +23,7 @@ and I'm focusing my research on Data Science.
 
 - 📫 How to reach me: **alcantara.he@outlook.com**
 
-- ⚡ Fun fact: **I like read books and series about Sci-Fi, I like to understand how things work, do it yourself and I love science in general📚.**
+- ⚡ Fun fact: **I like books and series about Sci-Fi, I like to understand how things work, do it yourself and I love science in general📚.**
 
 <h3 align="left">let's get in touch :</h3>
 <p align="left">
