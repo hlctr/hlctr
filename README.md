@@ -33,12 +33,5 @@ and I'm focusing my research on Data Science.
 <hr>
 <h3 align="center" > 🚀 Languages - Frameworks - Tools - Libraries - Workspace 🚀</h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,vscode,git,js,github,gitlab,mysql,vscode,visualstudio,markdown,python,windows,ubuntu" 
-
- </p>
-
-<hr>
-<div style="display: flex;">
-    <p style="margin-right: 5px;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hlctr&show_icons=true&locale=en&layout=compact&theme=radical" alt="hlctr" /></p>
-    <p style="margin-left: 5px;"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hlctr&show_icons=true&locale=en&theme=radical" alt="hlctr" /></p>
+    <img src="https://skillicons.dev/icons?i=markdown,html,css,bootstrap,js,git,github,gitlab,mysql,postgresql,mongodb,vscode,visualstudio,django,laravel,python,notion,windows,ubuntu" 
 </div>
