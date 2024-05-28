@@ -1,16 +1,11 @@
 </div>
-
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=500&color=3d85c6size=45&center=true&vCenter=true&random=false&width=435&lines=Hi+everyone+!+%F0%9F%91%8B+;+I'm+Herlon+Alcântara!" alt="Herlon Alcântara" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=500&color=3d85c6size=45&center=true&vCenter=true&random=false&width=435&lines=Hi+everyone!+%F0%9F%91%8B+;+I'm+Herlon+Alcântara!" alt="Herlon Alcântara" /></a>
     </h1>
-<h3 align="center"> Backend Developer 👨‍💻| Data Scientist (in progress...)🌐🛠️ </h3>
-
-
+<h3 align="center"> Backend Developer 👨‍💻| Data Scientist (in progress...)💾🛠️ </h3>
 <div align="center" style="display: block;">
     <img align="center" alt="GIF" src="programmer.gif" width="500" height="320" />
 </div>
-
-
 
 <details><summary> <h3> About me 🕵️‍♂️ ? </h3></summary>
 
