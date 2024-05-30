@@ -8,10 +8,9 @@
 </div>
 
 <details><summary> <h3> About me 🤖? </h3></summary>
-
   
-**`I'm new here... I am Herlon Alcântara, I live in Bahia-Brazil and I have a Diploma in Systems Analysis and Development
-and postgraduate degree in Architecture and IT Infrastructure Management and experience in project management.
+**`I'm new here... I am Herlon Alcântara, I live in Bahia-Brazil and I have a Diploma in Systems Analysis and Development,
+postgraduate degree in Architecture and IT Infrastructure Management and experience in project management.
 I often use backend language to automate and improve processes. About 3 months ago I started my Master's degree in Computer Science
 and I'm focusing my research on Data Science.
 `**
@@ -33,5 +32,5 @@ and I'm focusing my research on Data Science.
 <hr>
 <h3 align="center" > 🚀 Languages - Frameworks - Tools - Libraries - Workspace 🚀</h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=markdown,html,css,bootstrap,js,git,github,gitlab,mysql,postgresql,mongodb,vscode,visualstudio,django,laravel,python,notion,windows,ubuntu" 
+    <img src="https://skillicons.dev/icons?i=markdown,html,css,bootstrap,js,git,github,gitlab,mysql,postgresql,mongodb,vscode,visualstudio,django,laravel,python,pycharm,notion,windows,ubuntu" 
 </div>
